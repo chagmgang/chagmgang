@@ -7,4 +7,4 @@ KeumGang, Cha -- Reinforcement Learning, Natural Language Processing
   * Natural Language Processing Method
   * Self Supervised Learning
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shi510&show_icons=true&include_all_commits=true/> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=chagmgang&show_icons=true&include_all_commits=true/> </p>
